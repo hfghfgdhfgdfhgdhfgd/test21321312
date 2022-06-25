@@ -31,7 +31,7 @@
     "gatsby-remark-images": "^3.3.8",
     "gatsby-source-filesystem": "^2.3.8",
     "gatsby-transformer-sharp": "^2.5.3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "prettier": "2.0.5",
     "react-helmet": "^6.0.0",
     "styled-components": "^5.1.0"
